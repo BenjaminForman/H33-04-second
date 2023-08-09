@@ -1,0 +1,13 @@
+body{
+    background-image: url("img/soccer_bg.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    font-family: 'Ubuntu', sans-serif;
+    color: #FDFDFF;
+    padding-top: 20px;
+    
+}
+p{
+    color:red
+}
